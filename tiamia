@@ -11,8 +11,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Marinelutu/tdrfyguhijko-l-.git
 git push -u origin mainecho "# tdrfyguhijko-l-" >> README.md
-git init
-git add README.md
-git c
-git remote add origin https://github.com/Marinelutu/tdrfyguhijko-l-.git
-git push -u origin main
+git in
